@@ -1,0 +1,1 @@
+OpenSD supports ITIL(Information Technology Infrastructure Liberary) specification, provides professional IT Service Management software, include such modules: Incident Management, Problem Management, Configuration Management, Change Management, Service Level Management and so on.
